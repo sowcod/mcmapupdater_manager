@@ -1,0 +1,3 @@
+target
+target_docker
+!target_docker/debug/manager
